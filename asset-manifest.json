@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/uw/static/css/main.756106a3.css",
-    "main.js": "/uw/static/js/main.cd7f7caf.js",
+    "main.js": "/uw/static/js/main.586e82dc.js",
     "static/media/PortfolioImage3.png": "/uw/static/media/PortfolioImage3.ec2c15088febd5cd1838.png",
     "static/media/PortfolioImage4.png": "/uw/static/media/PortfolioImage4.70ab196dede8245e5669.png",
     "static/media/PortfolioImage2.png": "/uw/static/media/PortfolioImage2.b5ff898a49a113b23f26.png",
     "static/media/globeVector.png": "/uw/static/media/globeVector.f0d68681960e8020ffb1.png",
     "static/media/PortfolioImage1.png": "/uw/static/media/PortfolioImage1.3ddf73e40423b6c114fe.png",
-    "static/media/Logo.png": "/uw/static/media/Logo.3647406c450a86bcf3d4.png",
     "static/media/Pic.png": "/uw/static/media/Pic.c6f9d4105289655101ef.png",
     "static/media/Hero.png": "/uw/static/media/Hero.511f73d728e8927da733.png",
+    "static/media/Logo.png": "/uw/static/media/Logo.bbf6ea3b74c42918a72f.png",
     "static/media/doodlewebsite.avif": "/uw/static/media/doodlewebsite.25cce24486b8d14efdb5.avif",
     "index.html": "/uw/index.html",
     "main.756106a3.css.map": "/uw/static/css/main.756106a3.css.map",
-    "main.cd7f7caf.js.map": "/uw/static/js/main.cd7f7caf.js.map"
+    "main.586e82dc.js.map": "/uw/static/js/main.586e82dc.js.map"
   },
   "entrypoints": [
     "static/css/main.756106a3.css",
-    "static/js/main.cd7f7caf.js"
+    "static/js/main.586e82dc.js"
   ]
 }
