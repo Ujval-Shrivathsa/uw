@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uw/static/css/main.a0832e09.css",
-    "main.js": "/uw/static/js/main.837a0884.js",
+    "main.css": "/uw/static/css/main.a524464f.css",
+    "main.js": "/uw/static/js/main.de87c9e5.js",
     "static/media/PortfolioImage3.png": "/uw/static/media/PortfolioImage3.ec2c15088febd5cd1838.png",
     "static/media/PortfolioImage4.png": "/uw/static/media/PortfolioImage4.70ab196dede8245e5669.png",
     "static/media/PortfolioImage2.png": "/uw/static/media/PortfolioImage2.b5ff898a49a113b23f26.png",
@@ -15,11 +15,11 @@
     "static/media/UWEB Technologies.jpg": "/uw/static/media/UWEB Technologies.d3c782d3bba2f8dbbc46.jpg",
     "static/media/Hero.png": "/uw/static/media/Hero.511f73d728e8927da733.png",
     "index.html": "/uw/index.html",
-    "main.a0832e09.css.map": "/uw/static/css/main.a0832e09.css.map",
-    "main.837a0884.js.map": "/uw/static/js/main.837a0884.js.map"
+    "main.a524464f.css.map": "/uw/static/css/main.a524464f.css.map",
+    "main.de87c9e5.js.map": "/uw/static/js/main.de87c9e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0832e09.css",
-    "static/js/main.837a0884.js"
+    "static/css/main.a524464f.css",
+    "static/js/main.de87c9e5.js"
   ]
 }
